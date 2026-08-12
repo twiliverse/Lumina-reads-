@@ -22,7 +22,7 @@ All personal activity data is encrypted and stored in a secure, isolated vault t
 *   **Backend / API:** Python (FastAPI) or Node.js (Express)
 *   **AI Engine:** LangChain / OpenAI API (or local LLM for enhanced privacy)
 *   **Database (The Vault):** PostgreSQL with AES-256 encryption for user records
-*   **Deployment:** Vercel (Frontend) & Render/AWS (Backend)
+*   **Deployment:** Vercel (Frontend) & Render/AWS (Backend) hmm
 
 ---
 
