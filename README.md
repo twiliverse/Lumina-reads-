@@ -9,7 +9,7 @@ All personal activity data is encrypted and stored in a secure, isolated vault t
 ## ✨ Features we do 
 
 *   **Behavioral AI Engine:** Correlates daily phone activity (e.g., high social media usage vs. deep-focus utility apps esp ball it apps like whatsapp thats AI leaking us ) with optimal reading material. 
-*   **Reading Activity Tracker:** Logs reading speed, session lengths, and preferred formats (e.g., web novels, young adult romance, heavy sci-fi).
+*   **Reading Activity Tracker:** Logs reading speed, session lengths, and preferred formats (e.g., web novels, young adult romance, heavy sci-fi anime novels , webstoons etc ).
 *   **The Vault Architecture:** A privacy-first data layer where all phone telemetry and personal reading habits are encrypted at rest.
 *   **Dynamic UI/UX:** A responsive frontend featuring intuitive dashboards for your reading stats and AI-curated reading lists.
 *   **Automated Sync:** Integrates with standard screen-time APIs and e-reader export files.
