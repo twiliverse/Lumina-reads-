@@ -2,7 +2,7 @@
 
 **NeuroRead Vault** is an AI-powered recommendation engine and secure personal data vault. By analyzing your smartphone usage patterns (app categories, screen time, attention span) alongside your historical reading activity (genres, pacing, completion rates), it generates highly accurate book recommendations tailored to your current cognitive load and interests.
 
-All personal activity data is encrypted and stored in a secure, isolated vault to guarantee complete privacy.
+All personal activity data is encrypted and stored in a secure, isolated vault to guarantee complete privacy i hope so.
 
 ---
 
