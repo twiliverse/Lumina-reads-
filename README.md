@@ -45,7 +45,7 @@ Before you begin, ensure you have the following installed guess so:
 
 ---
 
-## 🚀 Installation & Setup
+## 🚀 Installation & Setup for people like me who are dumbash
 
 1. **Clone the repository:**
    ```bash
