@@ -37,7 +37,7 @@ All personal activity data is encrypted and stored in a secure, isolated vault t
 
 ## ⚙️ Prerequisites
 
-Before you begin, ensure you have the following installed:
+Before you begin, ensure you have the following installed guess so:
 
 *   [Node.js](https://nodejs.org/) (v18.x or higher)
 *   [Python 3.10+](https://www.python.org/)
